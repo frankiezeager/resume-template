@@ -1,14 +1,17 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Masters Degree, Data Science
+  uni: University of Virginia
+  year: 2016 &mdash; 2017
+  #awards:
+  #  - award: Quickest to fall asleep
+  #  - award: Fastest donut eater
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
+- degree: Bachelors Degree, Economics
+  uni: Honors College at the College of Charleston
+  year: 2012 &mdash; 2016
+  awards:
+    - Fanchon Morrow Condon Award for Economics
+    - Outstanding Student in Economics
+    - School of Business Outstanding Student Finalist
   summary: You can choose to have either a single or multiple awards
