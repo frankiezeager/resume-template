@@ -2,10 +2,7 @@
 - company: IBM Watson Health 
   position: Data Scientist
   duration: July 2017 &mdash; Present
-  summary:	<ul class="resume-item-list"><li>Developed a model to predict whether patients with certain chronic conditions would be hospitalized within the next 3, 6 or 9 month using a year of historical data, which yielded AUCs around .78
-</li><li>Created a specialist physician performance model in R using data envelopment analysis, which optimizes both the efficiency and efficacy of physicians
-</li><li>Worked with data engineering team to scale models for a production environment
-</li></ul>
+  summary:	<ul class="resume-item-list"><li>Developed a model to predict whether patients with certain chronic conditions would be hospitalized within the next 3, 6 or 9 month using a year of historical data, which yielded AUCs around .78 </li><li>Created a specialist physician performance model in R using data envelopment analysis, which optimizes both the efficiency and efficacy of physicians </li><li>Worked with data engineering team to scale models for a production environment</li></ul>
 
 - company: Capital One
   position: Data Science Capstone Project Intern
