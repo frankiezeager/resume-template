@@ -5,7 +5,7 @@
   #awards:
   #  - award: Quickest to fall asleep
   #  - award: Fastest donut eater
-  #summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: First Author, _Adversarial Learning in Credit Card Fraud Detection_ (in Systems and Information Engineering Design Symposium (SIEDS), 2017). Winner of *Best Paper, Data Science for Business Category SIEDS 2017*
 
 - degree: Bachelors Degree, Economics
   uni: Honors College at the College of Charleston
@@ -14,4 +14,4 @@
     - Fanchon Morrow Condon Award for Economics
     - Outstanding Student in Economics
     - School of Business Outstanding Student Finalist
-  summary: You can choose to have either a single or multiple awards
+  #summary: Thesis: Institutional Memory, Regime Duration, and Economic Freedom
