@@ -3,7 +3,7 @@
   position: Data Scientist
   duration: July 2017 &mdash; Present
   summary:	<ul class="resume-item-list"> <li>Used medical claims and electronic medical record (EMR) data that covers over 240 million unique individuals to develop machine learning predictive models</li> <li>Developed a model using Python (pandas and scikit-learn) to predict whether patients would be hospitalized </li>
-  <li>Developed a model to evaluate a physician's performance using Python and H2O in order to minimize cost while maximizing quality</li><li>Worked with data engineering team to scale models for a production environment</li></ul>
+  <li>Developed a model to evaluate a physician's performance using Python and H2O in order to minimize cost while maximizing quality</li><li>Collaborated with data engineering team to scale models for a production environment</li></ul>
 
 - company: Capital One
   position: Data Science Capstone Project Intern
