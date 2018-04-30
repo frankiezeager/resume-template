@@ -3,5 +3,5 @@
   description: Feature Engineering and Selection, K Nearest Neighbors, Support Vector Machines, Lasso/Ridge Regression, Random Forest, Naive Bayes, Neural Networks/Deep Learning
 
 - skill: Software and Programming Languages
-  description: Python (3 years), R (3.5 years), SQL (1.5 years), AWS (1.5 years), D3.js (.5 years), Tableau (.5 years)
+  description: Python (pandas, scikit-learn, keras), R, SQL, AWS, Tableau 
 
