@@ -2,9 +2,7 @@
 - degree: Masters Degree, Data Science
   uni: University of Virginia
   year: 2016 &mdash; 2017
-  awards:
-    - award: First Author, Adversarial Learning in Credit Card Fraud Detection (in Systems and Information Engineering Design Symposium (SIEDS), 2017).
-    - award:  Winner of Best Paper, Data Science for Business Category SIEDS 2017
+  #awards:
   #summary: 
 - degree: Bachelors Degree, Economics
   uni: Honors College at the College of Charleston
