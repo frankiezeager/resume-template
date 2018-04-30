@@ -1,15 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: Best Paper
+  organization: Systems and Industrial Engineering Design Symposium, Data Science for Business Category 
+  year: 2017
+  summary: Awarded Best Paper for <i href="https://ieeexplore.ieee.org/abstract/document/7937699/?reload=true"> Adversarial Learning in Credit Card Fraud Detection </i>
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+- award: Fanchon Morrow Condon Award for Economics
+  organization: College of Charleston Department of Economics
+  year: 2016
+  summary: Awarded to one graduating senior in Economics
 
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+- award: School of Business Outstanding Student Finalist
+  organization: College of Charleston School of Business
+  year: 2016
+  summary: Awarded to three graduating seniors across the College of Charleston School of Business
