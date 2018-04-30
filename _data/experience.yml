@@ -6,6 +6,6 @@
 
 - company: Capital One
   position: Data Science Capstone Project Intern
-  duration:  August, 2016 &mdash; May, 2017
+  duration:  August 2016 &mdash; May 2017
   summary: <ul class="resume-item-list"><li> Used adversarial machine learning and game theory to detect credit card fraud </li> <li>Developed a unique, highly scalable model that continually adapts to new attack strategies employed by fraudsters using game theory, with an eventual AUC of .89 after several rounds of the ‘game’</li> <li>Cleaned and created features on a large, 80 million row real-world dataset using AWS EC2 </li></ul>
 
