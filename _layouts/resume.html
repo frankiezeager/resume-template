@@ -94,17 +94,16 @@
       <!-- end Education -->
       {% endif %}
 
-
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Projects</h2>
-        </header>
+<!--
+     {% if site.resume_section_projects %}
+     <section class="content-section">
+       <header class="section-header">
+         <h2>Projects</h2>
+       </header>
 
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
@@ -112,7 +111,9 @@
         {% endfor %}
 
       </section>
+-->
       <!-- end Projects -->
+
       {% endif %}
 
       {% if site.resume_section_skills %}
@@ -210,6 +211,7 @@
         </div>
 
       </section>
+
       <!-- end Links -->
       {% endif %}
 
@@ -228,11 +230,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 
