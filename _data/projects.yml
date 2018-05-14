@@ -3,8 +3,8 @@
 
 #Trap Lyric Generator
 - project: Trap Lyric Generator
-  role: 
-  duration:
+  role: Primary Developer
+  duration: 2017-2018
   url: "trap-generator.zeager.xyz"
   description: Heroku web app that generates new trap rap lyrics based on user input using a Recurrent Neural Network/LSTM Network deep learning model. More information is available on my blog about the [model](http://zeager.xyz/Trap-Generator/) and the [web app](http://zeager.xyz/heroku/) I created.
 
