@@ -1,15 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-#- project: donutfinder.io
+ Trap Lyric Generator
+- project: Trap Lyric Generator
 #  role: Founder & Primary Developer
 #  duration: 2012 &mdash; Present
-  # url: "#"
-#  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+   url: "trap-generator.zeager.xyz"
+  description: Heroku web app that generates new trap rap lyrics based on user input using a Recurrent Neural Network/LSTM Network deep learning model. More information is available on my blog about the [model](http://zeager.xyz/Trap-Generator/) and the [web app](http://zeager.xyz/heroku/) I created.
 
 #Springfield Donut Eater's User Group
-#- project: Springfield Donut Eater's User Group
+#- project: Springfield Donut Eater's User Group 
 #  role: Co-Founder & Organizer
  # duration: 2007 &mdash; Present
   # url: "#"
