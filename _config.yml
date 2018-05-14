@@ -16,7 +16,7 @@ resume_contact_email:           "frankie@zeager.xyz"
 resume_contact_telephone:       "(864)-631-4026"
 resume_contact_address:         "Chicago, IL"
 resume_header_contact_info: "Chicago, IL | (864)-631-4026 | frankie@zeager.xyz"
-resume_header_intro: "<p>Data Scientist at IBM Watson Health</p>"
+resume_header_intro: "<p>I like solving interesting problems with data and machine learning.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,7 +38,7 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
+  resume_github_url:            "https://github.com/frankiezeager"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
