@@ -1,6 +1,6 @@
 # Skills
 - skill: Machine Learning
-  description: Feature Engineering and Selection, unsupervised learning (K-means Clustering, Gaussian Mixture Models), supervised learning (Support Vector Machines, Lasso/Ridge Regression, Random Forest, Naive Bayes, Neural Networks/Deep Learning)
+  description: Feature Engineering and Selection, Unsupervised Learning (K-means Clustering, Gaussian Mixture Models), Supervised Learning (Support Vector Machines, Lasso/Ridge Regression, Random Forest, Naive Bayes, Neural Networks/Deep Learning)
 
 - skill: Software and Programming Languages
   description: Python (pandas, scikit-learn, keras), R, SQL, AWS, Tableau 
