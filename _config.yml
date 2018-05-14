@@ -16,7 +16,7 @@ resume_contact_email:           "frankie@zeager.xyz"
 resume_contact_telephone:       "(864)-631-4026"
 resume_contact_address:         "Chicago, IL"
 resume_header_contact_info: "Chicago, IL | (864)-631-4026 | frankie@zeager.xyz | Blog: http://zeager.xyz"
-resume_header_intro: "<div align='center'> <b>Chicago, IL | (864)-631-4026 | frankie@zeager.xyz | Blog: http://zeager.xyz </b> </div>"
+resume_header_intro: "<div align='center'> <b>Chicago, IL | (864)-631-4026 | frankie@zeager.xyz | Blog: <a href=http://zeager.xyz>http://zeager.xyz</a> </b> </div>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
