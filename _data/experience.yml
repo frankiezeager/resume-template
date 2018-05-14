@@ -2,7 +2,7 @@
 - company: IBM Watson Health 
   position: Data Scientist
   duration: July 2017 &mdash; Present
-  summary:	<ul class="resume-item-list"><li>Used medical claims and electronic medical record (EMR) data that covers over 240 million unique individuals to develop machine learning predictive models</li> <li>Developed model using Python (pandas and scikit-learn) to predict whether patients with certain chronic diseases would be hospitalized</li><li>Collaborated with data engineering team to scale models for a production environment</li></ul>
+  summary:	<ul class="resume-item-list"><li>Used medical claims and electronic medical record (EMR) data that covers over 240 million unique individuals to develop predictive machine learning models</li> <li>Developed model using Python (pandas and scikit-learn) to predict whether patients with certain chronic diseases would be hospitalized</li><li>Collaborated with data engineering team to scale models for a production environment</li></ul>
 
 - company: Capital One
   position: Data Science Capstone Project Intern
