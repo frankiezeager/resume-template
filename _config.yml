@@ -15,8 +15,8 @@ resume_title:                   "Data Scientist"
 resume_contact_email:           "frankie@zeager.xyz"
 resume_contact_telephone:       "(864)-631-4026"
 resume_contact_address:         "Chicago, IL"
-resume_header_contact_info: "Chicago, IL | (864)-631-4026 | frankie@zeager.xyz | Blog: http://zeager.xyz"
-resume_header_intro: "I like solving interesting problems using machine learning."
+resume_header_contact_info: ""
+resume_header_intro: "<div align='center'> <b>Chicago, IL | (864)-631-4026 | frankie@zeager.xyz </b> </div>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
