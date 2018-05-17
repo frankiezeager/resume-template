@@ -6,6 +6,11 @@
 
 - company: Capital One
   position: Data Science Capstone Project Intern
-  duration:  August 2016 &mdash; May 2017
-  summary: <ul class="resume-item-list"><li> Used adversarial machine learning and game theory to detect credit card fraud </li> <li>Developed a unique, highly scalable model that continually adapts to new attack strategies employed by fraudsters using game theory, with an eventual AUC of .89 after several rounds of the ‘game’</li> <li>Cleaned and created features on a large, 80 million row real-world dataset using AWS EC2 </li></ul>
+  duration: August 2016 &mdash; May 2017
+  summary: <ul class="resume-item-list"><li> Used adversarial machine learning and game theory to detect credit card fraud </li> <li>Developed a unique model that continually adapts to new attack strategies employed by fraudsters using game theory, with an eventual AUC of .89 after several rounds of the ‘game’</li> <li>Cleaned and created features on a large, 80 million row credit card transaction dataset using AWS EC2 </li></ul>
+
+- company: College of Charleston (Various Departments/Projects)
+  position: Research Assistant
+  duration: February 2013 &mdash; May 2016
+  summary: <ul class="resume-item-list"><li> Used topic modeling to analyze the relationship between a congressional committee chairman’s political party and the congressional witness testimony on climate change </li> <li>Investigated the correlation between government decentralization of road maintenance and road quality using federal road quality data</li> <li>Worked with two College of Charleston Public Health professors on collecting both quantitative (through a survey) and qualitative (through interviews) data to examine contraceptive use decision-making. </li></ul>
 
