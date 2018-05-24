@@ -6,4 +6,4 @@
   role: Primary Developer
   duration: 2017-2018
   url: "https://trap-generator.zeager.xyz"
-  description: Heroku web app that generates new trap rap lyrics based on user input using a Recurrent Neural Network/LSTM Network deep learning model. More information is available on my blog about the <a href="http://zeager.xyz/Trap-Generator/">model</a> and the <a href="http://zeager.xyz/heroku/">web app</a> I created.
+  description: Flask web app that generates new trap rap lyrics based on user input using a Recurrent Neural Network/LSTM Network deep learning model. It was originally deployed on Heroku, but was later migrated to AWS Elastic Beanstalk. More information is available on my blog about the <a href="http://zeager.xyz/Trap-Generator/">model</a> and the <a href="http://zeager.xyz/heroku/">web app</a> I created. 
