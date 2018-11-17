@@ -1,7 +1,12 @@
 # Jobs
+- company: Avant
+  position: Data Scientist
+  duration: August 2018 &mdash; Present
+  summary: <u1 class="resume-item-list"><li>Implemented a markov chain loss forecasting system in R using xgboost models to forecast the amount of loans that would go delinquent or be prepaid in the coming months </li> <li> Used the output of the loss forecasting system to generate reports that drive business decisions </li></u1>
+
 - company: IBM Watson Health 
   position: Data Scientist
-  duration: July 2017 &mdash; Present
+  duration: July 2017 &mdash; August 2018
   summary:	<ul class="resume-item-list"><li>Used medical claims and electronic medical record (EMR) data that covers over 240 million unique individuals to develop predictive machine learning models</li> <li>Developed model using Python (pandas and scikit-learn) to predict whether patients with certain chronic diseases would be hospitalized</li><li>Collaborated with data engineering team to scale models for a production environment</li></ul>
 
 - company: Capital One
