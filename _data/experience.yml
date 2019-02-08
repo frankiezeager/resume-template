@@ -2,7 +2,7 @@
 - company: Avant
   position: Data Scientist
   duration: August 2018 &mdash; Present
-  summary: <u1 class="resume-item-list"><li>Implemented a markov chain loss forecasting system in R using xgboost models to forecast the amount of loans that would go delinquent or be prepaid in the coming months</li> <li>Used the output of the loss forecasting system to generate reports that drive business decisions</li></u1>
+  summary: <u1 class="resume-item-list"><li>Implemented a markov chain loss forecasting system in R using xgboost models to forecast the amount of loans that would go delinquent or be prepaid in the coming months</li> <li>Used the output of the loss forecasting system to generate reports to drive business decisions, such as how many collections employees to hire and to inform strategic executive decisions</li></u1>
 
 - company: IBM Watson Health 
   position: Data Scientist
